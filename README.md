@@ -1,2 +1,2 @@
 # YCK
-YCP - Young Chemist Kit
+YCK - Young Chemist Kit
